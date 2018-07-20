@@ -30,7 +30,7 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://dietcalc.herokuapp.com/" target="_blank" >Nutrition Calculator</a>
                   <br />
-                  <Icon type="github" /> <a href="" target="_blank" > Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/rafaremo/Diet-Calc" target="_blank" >Github</a>
                 </Panel>
 
                 <Panel header="Maite Rojas & Miguel Barrera" key="2">
@@ -38,7 +38,7 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://irondj.herokuapp.com/" target="_blank" >Indie DJ</a>
                   <br />
-                  <Icon type="github" /> <a rel="noopener noreferrer" href="" target="_blank" >Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/mtrojas/project2" target="_blank" >Github</a>
                 </Panel>
 
                 <Panel header="Rodrigo Ortiz & Ricardo Lopez" key="3">
@@ -46,7 +46,7 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://sleepy-lowlands-81745.herokuapp.com/" target="_blank" >Sheltair</a>
                   <br />
-                  <Icon type="github" /> <a rel="noopener noreferrer" href="" target="_blank" >Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/rolortizg/dogShelterProject" target="_blank" >Github</a>
                 </Panel>
 
                 <Panel header="Fernanda Velázquez & Ricardo Hernández" key="4">
@@ -70,7 +70,7 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://radiant-reaches-45815.herokuapp.com/" target="_blank" >Lost/Found</a>
                   <br />
-                  <Icon type="github" /> <a rel="noopener noreferrer" href="" target="_blank" >Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/pabloturati/lostFound" target="_blank" >Github</a>
                 </Panel>
 
                 <Panel header="Beth Shook & Alberto Morales" key="7">
@@ -86,7 +86,7 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://beautychangers.herokuapp.com/login" target="_blank" >Beauty Changers</a>
                   <br />
-                  <Icon type="github" /> <a rel="noopener noreferrer" href="" target="_blank" >Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/lipeval/proyecto-modulo2" target="_blank" >Github</a>
                 </Panel>
 
                 <Panel header="Javier Ramirez & Ricardo Campos" key="9">
@@ -94,10 +94,10 @@ class HomePage extends React.Component{
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://protected-reef-98621.herokuapp.com/" target="_blank" >Buena Receta</a>
                   <br />
-                  <Icon type="github" /> <a rel="noopener noreferrer" href="" target="_blank" >Github</a>
+                  <Icon type="github" /> <a rel="noopener noreferrer" href="https://github.com/javieramirez90/proyecto2.git" target="_blank" >Github</a>
                 </Panel>
 
-                <Panel header="Patrick La Guardia & Fernando Rios" key="10">
+                <Panel header="Patrick La Guardia & Fernando Mendez" key="10">
                   <Icon type="desktop" /> <a rel="noopener noreferrer" href="https://slides.com/fernandomendezrios/deck#/1" target="_blank" >Slides</a>
                   <br />
                   <Icon type="code" /> <a rel="noopener noreferrer" href="https://ironflix.herokuapp.com/" target="_blank" >Ironflix</a>
